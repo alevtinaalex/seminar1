@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\lesson p31\example 004_Diff\bin\Debug\net6.0\example 004_Diff.exe
+C:\Users\User\Desktop\lesson p31\example 004_Diff\bin\Debug\net6.0\example 004_Diff.deps.json
+C:\Users\User\Desktop\lesson p31\example 004_Diff\bin\Debug\net6.0\example 004_Diff.runtimeconfig.json
+C:\Users\User\Desktop\lesson p31\example 004_Diff\bin\Debug\net6.0\example 004_Diff.dll
+C:\Users\User\Desktop\lesson p31\example 004_Diff\bin\Debug\net6.0\example 004_Diff.pdb
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\example 004_Diff.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\example 004_Diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\example 004_Diff.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\example 004_Diff.AssemblyInfo.cs
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\example 004_Diff.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\example 004_Diff.dll
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\refint\example 004_Diff.dll
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\example 004_Diff.pdb
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\example 004_Diff.genruntimeconfig.cache
+C:\Users\User\Desktop\lesson p31\example 004_Diff\obj\Debug\net6.0\ref\example 004_Diff.dll
+C:\Users\User\Desktop\lesson p31\example004_Diff\bin\Debug\net6.0\example 004_Diff.exe
+C:\Users\User\Desktop\lesson p31\example004_Diff\bin\Debug\net6.0\example 004_Diff.deps.json
+C:\Users\User\Desktop\lesson p31\example004_Diff\bin\Debug\net6.0\example 004_Diff.runtimeconfig.json
+C:\Users\User\Desktop\lesson p31\example004_Diff\bin\Debug\net6.0\example 004_Diff.dll
+C:\Users\User\Desktop\lesson p31\example004_Diff\bin\Debug\net6.0\example 004_Diff.pdb
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\example 004_Diff.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\example 004_Diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\example 004_Diff.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\example 004_Diff.AssemblyInfo.cs
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\example 004_Diff.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\example 004_Diff.dll
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\refint\example 004_Diff.dll
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\example 004_Diff.pdb
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\example 004_Diff.genruntimeconfig.cache
+C:\Users\User\Desktop\lesson p31\example004_Diff\obj\Debug\net6.0\ref\example 004_Diff.dll
